@@ -96,7 +96,7 @@
 
 ```bash
 git lfs install
-git clone https://github.com/<your-name>/predict-app.git
+git clone https://github.com/xxxl-nmmd/predict-app.git
 cd predict-app
 ```
 
