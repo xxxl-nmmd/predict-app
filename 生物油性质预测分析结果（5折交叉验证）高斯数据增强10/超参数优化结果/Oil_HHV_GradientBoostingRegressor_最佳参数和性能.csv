@@ -1,0 +1,2 @@
+﻿model,target,best_params,best_test_r2,best_test_rmse
+GradientBoostingRegressor,Oil_HHV,"{'learning_rate': np.float64(0.035877998160001694), 'max_depth': 6, 'n_estimators': 181, 'subsample': np.float64(0.8623422152178822)}",0.8674723776619594,1.1632694892004851

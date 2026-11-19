@@ -1,0 +1,2 @@
+﻿model,target,best_params,best_test_r2,best_test_rmse
+RandomForestRegressor,Oil_H,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 107}",0.957099192268552,0.3021948894390767

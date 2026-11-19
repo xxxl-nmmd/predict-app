@@ -1,0 +1,16 @@
+﻿输入特征类别,特征名称,是否在数据中
+生化组成,Pro (%),True
+生化组成,Lip (%),True
+生化组成,CH (%),True
+元素分析,C (%),True
+元素分析,H (%),True
+元素分析,O (%),True
+元素分析,N (%),True
+元素分析,S (%),True
+灰分,Ash (%),True
+操作条件,Time (min),True
+操作条件,T (℃),True
+操作条件,Size (L),True
+操作条件,Ratio,True
+反应溶剂,RS,True
+分离溶剂,SS,True

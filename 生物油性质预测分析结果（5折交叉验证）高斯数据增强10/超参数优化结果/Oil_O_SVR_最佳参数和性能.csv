@@ -1,0 +1,2 @@
+﻿model,target,best_params,best_test_r2,best_test_rmse
+SVR,Oil_O,"{'C': np.float64(98.42308858067881), 'epsilon': np.float64(0.10335257864959599), 'gamma': 'scale'}",0.9243859729584273,1.3901472018102397

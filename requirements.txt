@@ -1,0 +1,9 @@
+# 依赖版本与训练/推理环境保持一致，否则 joblib 加载 .pkl 模型可能失败
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+shap==0.53.0
+joblib==1.6.0

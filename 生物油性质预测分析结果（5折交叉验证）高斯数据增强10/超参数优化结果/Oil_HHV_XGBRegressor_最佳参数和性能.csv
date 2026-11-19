@@ -1,0 +1,2 @@
+﻿model,target,best_params,best_test_r2,best_test_rmse
+XGBRegressor,Oil_HHV,"{'colsample_bytree': np.float64(0.9494640220274763), 'learning_rate': np.float64(0.11793842647781595), 'max_depth': 6, 'n_estimators': 173, 'subsample': np.float64(0.8551998364045087)}",0.8738150903650499,1.1350914298101427

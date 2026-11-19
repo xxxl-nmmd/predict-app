@@ -1,0 +1,2 @@
+﻿model,target,best_params,best_test_r2,best_test_rmse
+LGBMRegressor,Oil_O,"{'learning_rate': np.float64(0.1065255307264138), 'max_depth': 6, 'n_estimators': 173, 'num_leaves': 71, 'subsample': np.float64(0.8592547011408165)}",0.9195372557732225,1.4340260013019033
